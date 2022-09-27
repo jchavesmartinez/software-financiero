@@ -91,7 +91,7 @@ while True:
 
 window.close()
 
-print("hola")
 
-print("Adios")
 
+
+print("putitostodos")
