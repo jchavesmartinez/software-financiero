@@ -92,6 +92,3 @@ while True:
 window.close()
 
 
-
-
-print("hola")
