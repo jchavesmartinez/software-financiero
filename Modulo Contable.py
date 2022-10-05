@@ -1,5 +1,6 @@
 from ctypes.wintypes import SIZE
 import PySimpleGUI as sg
+import pandas as pd
 
 h=5
 menubotones= [
@@ -14,6 +15,10 @@ menubotones= [
     [sg.Button("Guardar", size=(14,h),pad=(1,0)), sg.Button("Salir", size=(14,h))]
 
 ]
+
+url = 'https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv'
+df = pd.read_csv(url, index_col=0)
+print(df.head(5))
 
 registrodataSA = []
 registrodataSA_heads = ['File ID', 'Type', 'Description', 'Remarks']
