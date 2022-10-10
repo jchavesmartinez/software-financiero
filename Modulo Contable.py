@@ -96,7 +96,6 @@ while True:
 
 window.close()
 
-prueba
 
 
 
