@@ -1,15 +1,1 @@
-,Asiento,Fecha,Código,Cuenta,Debe,Haber
-0,1,Oct-11-2022,11,Activo Corriente,100,-
-1,1,Oct-11-2022,11,Activo Corriente,-,100
-2,2,Oct-11-2022,111010103,Efectivo en caja en el exterior,2,-
-3,2,Oct-11-2022,111010103,Efectivo en caja en el exterior,2,-
-4,2,Oct-11-2022,111010103,Efectivo en caja en el exterior,-,2
-5,2,Oct-11-2022,111010103,Efectivo en caja en el exterior,-,2
-6,3,Oct-11-2022,111010102,Efectivo en caja en el país,50,-
-7,3,Oct-11-2022,111010102,Efectivo en caja en el país,-,50
-8,4,Oct-11-2022,111010103,Efectivo en caja en el exterior,111,-
-9,4,Oct-11-2022,111010103,Efectivo en caja en el exterior,-,111
-10,5,Oct-11-2022,1110102,Depósitos bancarios,-,1
-11,5,Oct-11-2022,1110102,Depósitos bancarios,1,-
-12,6,Oct-12-2022,1110101,Caja,100,-
-13,6,Oct-12-2022,1110101,Caja,-,100
+
