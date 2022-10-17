@@ -1,9 +1,17 @@
 ,Asiento,Fecha,Código,Cuenta,Debe,Haber
-0,1,Oct-16-2022,111,Efectivo  equivalentes de efectivo,72000,-
-1,1,Oct-16-2022,1260803,Software  programas,53172,-
-2,1,Oct-16-2022,111,Efectivo  equivalentes de efectivo,-,53172
-3,1,Oct-16-2022,211020205,Impuesto sobre la renta a pagar,-,3225
-4,1,Oct-16-2022,31101,Capital inicial,-,7500
-5,1,Oct-16-2022,31501,Resultados acumulados de ejercicios anteriores,-,61275
-6,2,Oct-16-2022,1110101,Caja,300,-
-7,2,Oct-16-2022,229,Otros pasivos a largo plazo,-,300
+0,1,Oct-16-2022,1110101,Caja,1000,-
+1,1,Oct-16-2022,31101,Capital inicial,-,1000
+2,1,Oct-16-2022,1110101,Caja,2000,-
+3,1,Oct-16-2022,219,Otros pasivos a corto plazo,-,2000
+4,1,Oct-16-2022,1110101,Caja,10000,-
+5,1,Oct-16-2022,44101,Ventas de bienes,-,10000
+6,1,Oct-16-2022,511,Gastos en personal,2000,-
+7,1,Oct-16-2022,1110101,Caja,-,2000
+8,2,Oct-16-2022,1110101,Caja,20000,-
+9,2,Oct-16-2022,21,Pasivo Corriente,-,20000
+10,3,Oct-16-2022,51,Gastos de funcionamiento,20000,-
+11,3,Oct-16-2022,1110101,Caja,-,20000
+12,4,Oct-16-2022,1110101,Caja,1,-
+13,4,Oct-16-2022,21,Pasivo Corriente,-,1
+14,5,Oct-16-2022,1110101,Caja,1,-
+15,5,Oct-16-2022,21,Pasivo Corriente,-,1
