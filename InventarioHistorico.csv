@@ -1,9 +1,1 @@
-Fecha,Codigo,Producto,Precio Unitario,Costo Unitario,Movimientos,Precio Total,Costo total,Tipo
-18/10/2022,9788423418909    ,POR QUÉ FRACASAN LOS PAÍSES,24,11,10,240,110,Entrada
-20/10/2022,9788423418919    ,A,21,6,2,42,12,Entrada
-22/10/2022,9788423418929    ,B,18,15,3,54,45,Entrada
-24/10/2022,9788423418939    ,C,21,11,4,84,44,Entrada
-26/10/2022,9788423418949    ,D,22,14,5,110,70,Entrada
-28/10/2022,9788423418959    ,E,17,14,6,102,84,Entrada
-30/10/2022,9788423418909    ,POR QUÉ FRACASAN LOS PAÍSES,24,11,-2,-48,-22,Salida
-01/11/2022,9788423418909    ,POR QUÉ FRACASAN LOS PAÍSES,24,11,-4,-96,-44,Salida
+Fecha,Código,Producto,Precio Unitario,Costo unitario,Movimiento,Precio Total,Costo Total,Tipo
