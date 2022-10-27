@@ -1,14 +1,6 @@
 Fecha,Código,Producto,Precio Unitario,Costo unitario,Movimiento,Precio Total,Costo Total,Tipo
-Oct-24-2022,9788423418909    ,Escoba,33,10,1,33.0,10.0,Entrada
-Oct-25-2022,9788423418909    ,Escoba,33,10,-1,-33.0,-10.0,Salida
-Oct-26-2022,9788423418909    ,Escoba,66,10,1,66.0,10.0,Entrada
-Oct-27-2022,9788423418909    ,Escoba,12,10,1,12.0,10.0,Entrada
-Oct-28-2022,9788423418909    ,Escoba,12,10,-2,-12.0,-10.0,Salida
-Oct-29-2022,9788423418909    ,Escoba,12,10,1,12.0,10.0,Entrada
-Oct-30-2022,AS400,Pala,13,10,15,195.0,150.0,Entrada
-Oct-31-2022,9788423418909    ,Escoba,33,10,2,66.0,20.0,Entrada
-Oct-25-2022,1,1,1,1,1,1.0,1.0,Entrada
-Oct-25-2022,1,1,1,1,1,1.0,1.0,Entrada
-Oct-25-2022,1,1,1,1,1,1.0,1.0,Entrada
-Oct-25-2022,1,1,1,1,1,1.0,1.0,Entrada
-Oct-25-2022,1,1,1,1,1,1.0,1.0,Entrada
+13/01/2021,SA400,PRUEBA2,150,100,100,15000,10000,Entrada
+20/01/2021,SA400,PRUEBA2,150,100,1,150,100,Entrada
+26/01/2021,SA400,PRUEBA2,150,100,7,1050,700,Entrada
+29/01/2021,SA400,PRUEBA2,150,100,50,0,0,Entrada
+02/02/2021,SA400,PRUEBA2,150,100,-5,-750,-500,Salida
