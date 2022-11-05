@@ -8,3 +8,5 @@ Fecha,Código,Producto,Precio Unitario,Costo unitario,Movimiento,Precio Total,Cos
 04/02/2021,JOSE,ABC,18,16,12,216.0,192.0,Entrada
 05/02/2021,JOSE,ABC,18,16,12,216.0,192.0,Entrada
 Oct-26-2022,JOSE,ABC,10,2,1000,10000.0,2000.0,Entrada
+Nov-05-2022,7445094000223,Liberty,500,400,10,5000.0,4000.0,Entrada
+Nov-05-2022,74450940002231,Liberty,500,400,10,5000.0,4000.0,Entrada
