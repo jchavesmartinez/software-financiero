@@ -1,38 +1,23 @@
 ,Asiento,Fecha,Código,Cuenta,Debe,Haber
-0,1,Oct-16-2022,1110101,Caja,1000,-
-1,1,Oct-16-2022,31101,Capital inicial,-,1000
-2,1,Oct-16-2022,1110101,Caja,2000,-
-3,1,Oct-16-2022,219,Otros pasivos a corto plazo,-,2000
-4,1,Oct-16-2022,1110101,Caja,10000,-
-5,1,Oct-16-2022,44101,Ventas de bienes,-,10000
-6,1,Oct-16-2022,511,Gastos en personal,2000,-
-7,1,Oct-16-2022,1110101,Caja,-,2000
-8,2,Oct-16-2022,1110101,Caja,20000,-
-9,2,Oct-16-2022,21,Pasivo Corriente,-,20000
-10,3,Oct-16-2022,51,Gastos de funcionamiento,20000,-
-11,3,Oct-16-2022,1110101,Caja,-,20000
-12,4,Oct-16-2022,1110101,Caja,1,-
-13,4,Oct-16-2022,21,Pasivo Corriente,-,1
-14,5,Oct-16-2022,1110101,Caja,1,-
-15,5,Oct-16-2022,21,Pasivo Corriente,-,1
-16,6,Oct-17-2022,1110101,Caja,100000,-
-17,6,Oct-17-2022,44101,Ventas de bienes,-,100000
-18,7,Oct-17-2022,1110101,Caja,1000,-
-19,7,Oct-17-2022,219,Otros pasivos a corto plazo,-,1000
-20,8,Dec-08-2022,11,Activo Corriente,1000,-
-21,8,Dec-08-2022,11101,Efectivo,-,1000
-22,9,Dec-14-2022,1110101,Caja,-,2000
-23,9,Dec-14-2022,521,Intereses sobre endeudamiento público,2000,-
-24,10,Dec-14-2022,1110101,Caja,-,1000
-25,10,Dec-14-2022,541010102,Becas,1000,-
-26,11,Dec-24-2022,31502,Resultado del ejercicio,25000.0,0
-27,11,Dec-24-2022,51,Gastos de funcionamiento,0,20000.0
-28,11,Dec-24-2022,511,Gastos en personal,0,2000.0
-29,11,Dec-24-2022,521,Intereses sobre endeudamiento público,0,2000.0
-30,11,Dec-24-2022,541010102,Becas,0,1000.0
-31,12,Dec-24-2022,31502,Resultado del ejercicio,0,110000.0
-32,12,Dec-24-2022,44101,Ventas de bienes,110000.0,0
-33,13,Dec-24-2022,31502,Resultado del ejercicio,80750.0,0
-34,13,Dec-24-2022,31501,Resultados acumulados de ejercicios anteriores,0,80750.0
-35,14,Dec-24-2022,31502,Resultado del ejercicio,4250.0,0
-36,14,Dec-24-2022,211020205,Impuesto sobre la renta a pagar,0,4250.0
+0,1,Dec-25-2022,1110101,Caja,1000000,-
+1,1,Dec-25-2022,31101,Capital inicial,-,1000000
+2,2,Dec-25-2022,11402,Bienes para la venta,40000.0,0
+3,2,Dec-25-2022,1110101,Caja,0,40000.0
+4,3,Dec-25-2022,11402,Bienes para la venta,40000.0,0
+5,3,Dec-25-2022,1110101,Caja,0,40000.0
+6,4,Dec-25-2022,11402,Bienes para la venta,40000.0,0
+7,4,Dec-25-2022,1110101,Caja,0,40000.0
+8,5,Dec-25-2022,11402,Bienes para la venta,7326.0,-
+9,5,Dec-25-2022,1110101,Caja,-,7326.0
+10,6,Dec-25-2022,11402,Bienes para la venta,1650.0,-
+11,6,Dec-25-2022,2110101,Deudas por adquisición de inventarios c/p,-,1650.0
+12,7,Dec-25-2022,2110101,Deudas por adquisición de inventarios c/p,1650.0,0
+13,7,Dec-25-2022,11402,Bienes para la venta,-,1650.0
+14,8,Dec-25-2022,1110101,Caja,7326.0,0
+15,8,Dec-25-2022,11402,Bienes para la venta,-,7326.0
+16,9,Dec-25-2022,1110101,Caja,40000.0,0
+17,9,Dec-25-2022,11402,Bienes para la venta,-,40000.0
+18,10,Dec-25-2022,1110101,Caja,40000.0,0
+19,10,Dec-25-2022,11402,Bienes para la venta,-,40000.0
+20,11,Dec-25-2022,1110101,Caja,40000.0,0
+21,11,Dec-25-2022,11402,Bienes para la venta,-,40000.0
