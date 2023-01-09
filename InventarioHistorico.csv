@@ -1,1 +1,4 @@
 Fecha,Código,Producto,Precio Unitario,Costo unitario,Movimiento,Precio Total,Costo Total,Tipo,Pago
+Jan-08-2023,123,1,2,1,10,20.0,10.0,Entrada,Contado
+Jan-08-2023,123,1,2,1,-5,-10.0,-5.0,Salida,Contado
+Jan-08-2023,123,1,2,1,-5,-10.0,-5.0,Salida,Crédito
